@@ -1,0 +1,27 @@
+.div_A {
+    background: #7c03b4;
+    width:80vw;
+    height:500px;
+}
+.div_B {
+    background:#06d47e;
+    height:350px;
+    width:750px;
+}
+p {
+    color:rgb(78, 14, 14);
+    background:rgb(248, 224, 224);
+    font-size:11px;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-weight: bold;
+}
+.div_C {
+    width: 150mm;
+    height: 20vh;
+    background: rgb(101, 99, 102);
+}
+.div_D {
+    width:55vw;
+    height: 10vh;
+    background: #b97373;
+}
